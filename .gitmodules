@@ -1,0 +1,3 @@
+[submodule "oxidized"]
+	path = oxidized
+	url = git@github.com:ytti/oxidized.git
